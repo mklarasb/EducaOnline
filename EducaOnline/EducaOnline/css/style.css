@@ -1,0 +1,189 @@
+body{
+    background: rgb(149,0,0);
+    background: linear-gradient(180deg, rgba(149,0,0,1) 0%, rgba(27,29,31,1) 88%); 
+}
+
+body p{
+    size: 30px;
+    color: #ffffff;
+}
+.cursos{
+    min-height: 80vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-image: url('../img/Imagem\ do\ WhatsApp3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+
+
+header div{
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,0.8309523638556986) 0%, rgba(0,0,0,0.690896341446735) 88%); 
+    min-height: 80vh;
+    width: 100%;
+
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding-left: 40px;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    font-size: 80px;
+    font-weight: 10;
+    font-family: 'Courier, monospace';
+    text-shadow: white;
+    
+    
+}
+
+.icone{
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    font-weight: 10;
+    font-family: 'Courier, monospace';
+    text-shadow: white;
+    
+}
+
+.voltar{
+    margin-left: 85%;
+    margin-bottom: 20px;
+}
+
+.title{
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.contato{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.bg-custom {
+    background-color: #1b1d1f; 
+    color: #ffffff;
+}
+
+.container-fluid{
+    margin: 0px 0px 0px 0px;
+    background-color: #1b1d1f;
+    color: white;
+
+    
+}
+
+.nav.navbar.navbar-expand-lg.bg-body-tertiary{
+    padding: 0px 0px;
+}
+.menu-site{
+    background: rgb(37, 37, 37);
+    padding: 0px 0px 0px 0px;
+    margin:0px 0px 0px 0px;
+}
+
+.container-mt5{
+    background:  rgb(213, 228, 213);;
+}
+
+.sobre{
+    color: #000000;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 100px;
+}
+
+.cachorro{
+    justify-content: center;
+    justify-items: center;
+    display: flex;
+    padding: 20px;
+    size-adjust: 0px;
+    
+}
+
+.card{
+    color: rgba(101, 151, 216, 1);
+    background-color: #1b1d1f;
+}
+
+.verMais{
+    justify-content: center;
+    justify-items: center;
+    display: flex;
+    padding-bottom: 20px;
+    
+}
+
+.cor{
+    background-color: rgb(159, 184, 218);;
+}
+
+.baixo{
+    padding-bottom: 30px;
+}
+
+.h1{
+    color: rgb(255, 255, 255);
+    font-size: 100px;
+    font-weight: 10;
+    font-family: 'Courier, monospace';
+    text-shadow: white;
+}
+
+.selecione{
+    padding-left: 110px;
+    padding-right: 110px;
+    padding-top: 20px;
+    
+}
+
+div select option{
+    color: rgba(2, 38, 0, 1);
+}
+
+.btn-primary{
+    background-color: rgb(155, 0, 0);
+    border: 0;
+}
+
+.btn-primary:hover{
+    background-color: rgb(70, 2, 2);
+}
+
+.btn-outline-success{
+    background-color: rgb(155, 0, 0); 
+    border: 0; 
+    color: bisque;
+} 
+
+.btn-outline-success:hover{
+    background-color: rgb(70, 0, 0); 
+    border: 0; 
+    color: bisque;
+} 
+
+.h5{
+    color: rgb(255, 255, 255);
+}
+
+.imag{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+
+    max-height: 50px;
+    max-width: 50px;
+}
+
+
